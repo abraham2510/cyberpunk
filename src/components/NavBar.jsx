@@ -53,7 +53,7 @@ const NavBar = () => {
 
                     <div className={`lg:hidden ${isMenuOpen ? 'block animate-fadeIn' : 'hidden'} fixed inset-0 h-screen w-screen overflow-hidden`}
                         style={{
-                            backgroundImage: "url('src/assets/image.png')",
+                            backgroundImage: "url('https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/logoForProduct.png?updatedAt=1746880807133')",
                             backgroundRepeat: 'repeat',
                         }}
                     >
