@@ -81,7 +81,7 @@ const Hero = () => {
                         <a href="https://www.youtube.com/watch?v=Ugb80d5lxEM" target="_blank">
                             <button className="relative w-full sm:w-[232px] h-[48px] bg-no-repeat bg-cover bg-center text-black font-bold text-base tracking-wide flex items-center justify-center hover:opacity-90 transition-opacity"
                                 style={{
-                                    backgroundImage: "url('https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/cp-btn-black-f7fe60d8.svg?updatedAt=1746880801147')"
+                                    backgroundImage: "url('https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/btnImg.svg?updatedAt=1746880810997')"
                                 }}
                             >
                                 WATCH TRAILER
