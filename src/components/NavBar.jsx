@@ -39,7 +39,7 @@ const NavBar = () => {
 
                         {/* Desktop Menu */}
                         <div className="hidden lg:flex font-blender items-center justify-center rounded-sm">
-                            <ul className="text-[20px] leading-[24px] flex items-center pl-6 bg-[#4F4E04] clip-five-side rounded-sm">
+                            <ul className="text-[20px] leading-[24px] flex items-center pl-6 bg-[#4F4E04] clip-five-side rounded-sm cursor-pointer">
                                 <li className="bg-[#4F4E04] text-white px-8 h-[38px] flex items-center hover:bg-[#FFF733]/80 hover:text-black transition-colors duration-300 font-blender">GAMES</li>
                                 <li className="bg-[#4F4E04] text-white px-8 h-[38px] flex items-center hover:bg-[#FFF733]/80 hover:text-black  transition-colors duration-300 font-blender">SHOWS</li>
                                 <li className="bg-[#4F4E04] text-white px-8 h-[38px] flex items-center hover:bg-[#FFF733]/80 hover:text-black  transition-colors duration-300 font-blender">COMMUNITY</li>

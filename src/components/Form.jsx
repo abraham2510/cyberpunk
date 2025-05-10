@@ -86,7 +86,7 @@ export const Form = () => {
                                     </div>
                                     <div className='flex items-center justify-center lg:justify-end lg:mt-6'>
                                         <button type="submit" className="relative group transition-transform hover:scale-105">
-                                            <img src="src/assets/cp-btn-black-f7fe60d8.svg" alt="Button" className="w-[232px] h-[48px]" />
+                                            <img src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/cp-btn-black-f7fe60d8.svg?updatedAt=1746880801147" alt="Button" className="w-[232px] h-[48px]" />
                                             <span className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-black font-mono text-sm">SUBMIT</span>
                                         </button>
                                     </div>
@@ -94,10 +94,14 @@ export const Form = () => {
                             </form>
                         </div>
                     </div>
-                    <div>
-                        <div className='flex justify-end items-end mt-10'>
-                            <img src="src/assets/razor-bottom-black-4930e500.svg" alt="razorpattern" />
-                        </div>
+                </div>
+                <div>
+                    <div className="flex justify-center items-center mt-10">
+                        <img
+                            className="w-full max-w-none"
+                            src="https://www.cyberpunk.net/build/images/razor-18e21da3.svg"
+                            alt="razorpattern"
+                        />
                     </div>
                 </div>
             </div >

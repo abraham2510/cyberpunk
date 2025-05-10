@@ -70,7 +70,7 @@ const News = () => {
                     <div className='flex justify-center mt-12'>
                         <a href="" className='group'>
                             <button className="relative group-hover:opacity-90 transition-opacity duration-300">
-                                <img src="/src/assets/btnBlue.svg" alt="Button" className="w-[232px] h-[48px]" />
+                                <img src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/btnBlue.svg?updatedAt=1746880810806" alt="Button" className="w-[232px] h-[48px]" />
                                 <span className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white font-mono text-sm group-hover:text-[#00f0ff] transition-colors duration-300">
                                     MORE NEWS
                                 </span>
@@ -79,7 +79,7 @@ const News = () => {
                     </div>
                 </div>
                 <div className='flex justify-end items-end mt-10 px-4 sm:px-6 lg:px-8'>
-                    <img src="/src/assets/razorpattern.svg" alt="razorpattern" />
+                    <img src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/razoryellow.svg?updatedAt=1746881891035" alt="razorpattern" />
                 </div>
             </div>
         </>

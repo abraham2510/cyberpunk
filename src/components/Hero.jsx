@@ -37,28 +37,28 @@ const Hero = () => {
                     <div className="hidden lg:block">
                         <div className="flex gap-x-4 mb-10">
                             <div className="flex">
-                                <img className="h-[50px]" src="src/assets/quote-left-0fba71e6.png" alt="left" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-left-0fba71e6.png?updatedAt=1746878887570" alt="left" />
                                 <div className="text-center uppercase">
                                     <p className="font-blenderbold text-[20px] font-[700] leading-[24px] ">"Better than ever"</p>
                                     <p className="font-blender text-[18px] leading-[26px] ">Push Square</p>
                                 </div>
-                                <img className="h-[50px]" src="src/assets/quote-right-ed9471ca.png" alt="right" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-right-ed9471ca.png?updatedAt=1746878886799" alt="right" />
                             </div>
                             <div className="flex">
-                                <img className="h-[50px]" src="src/assets/quote-left-0fba71e6.png" alt="left" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-left-0fba71e6.png?updatedAt=1746878887570" alt="left" />
                                 <div className="text-center uppercase">
                                     <p className="font-blenderbold text-[20px] font-[700] leading-[24px] ">"A stellar RPG"</p>
                                     <p className="font-blender text-[18px] leading-[26px] ">GameSpot</p>
                                 </div>
-                                <img className="h-[50px]" src="src/assets/quote-right-ed9471ca.png" alt="right" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-right-ed9471ca.png?updatedAt=1746878886799" alt="right" />
                             </div>
                             <div className="flex">
-                                <img className="h-[50px]" src="src/assets/quote-left-0fba71e6.png" alt="left" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-left-0fba71e6.png?updatedAt=1746878887570" alt="left" />
                                 <div className="text-center uppercase">
                                     <p className="font-blenderbold text-[20px] font-[700] leading-[24px] ">"Hard reboot"</p>
                                     <p className="font-blender text-[18px] leading-[26px] ">Eurogamer</p>
                                 </div>
-                                <img className="h-[50px]" src="src/assets/quote-right-ed9471ca.png" alt="right" />
+                                <img className="h-[50px]" src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/HeroSection/quote-right-ed9471ca.png?updatedAt=1746878886799" alt="right" />
                             </div>
                         </div>
                     </div>
@@ -78,13 +78,14 @@ const Hero = () => {
                                 <span aria-hidden className="cybr-btn__tag">R25</span>
                             </button>
                         </Link>
-                        <button className="relative w-full sm:w-[232px] h-[48px] bg-no-repeat bg-cover bg-center text-black font-bold text-base tracking-wide flex items-center justify-center hover:opacity-90 transition-opacity"
-                            style={{
-                                backgroundImage: "url('/src/assets/btnImg.svg')"
-                            }}
-                        >
-                            WATCH TRAILER
-                        </button>
+                        <a href="https://www.youtube.com/watch?v=Ugb80d5lxEM" target="_blank">
+                            <button className="relative w-full sm:w-[232px] h-[48px] bg-no-repeat bg-cover bg-center text-black font-bold text-base tracking-wide flex items-center justify-center hover:opacity-90 transition-opacity"
+                                style={{
+                                    backgroundImage: "url('https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/cp-btn-black-f7fe60d8.svg?updatedAt=1746880801147')"
+                                }}
+                            >
+                                WATCH TRAILER
+                            </button></a>
                     </div>
                 </div>
             </div>
