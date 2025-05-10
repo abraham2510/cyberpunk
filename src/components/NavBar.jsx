@@ -53,7 +53,7 @@ const NavBar = () => {
 
                     <div className={`lg:hidden ${isMenuOpen ? 'block animate-fadeIn' : 'hidden'} fixed inset-0 h-screen w-screen overflow-hidden`}
                         style={{
-                            backgroundImage: "url('https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/logoForProduct.png?updatedAt=1746880807133')",
+                            backgroundImage: "url('src/assets/image.png')",
                             backgroundRepeat: 'repeat',
                         }}
                     >
@@ -71,7 +71,7 @@ const NavBar = () => {
                         </button>
                         <ul className="flex flex-col gap-2 relative z-10 h-full">
                             <div className='flex items-center justify-center mt-4'>
-                                <img className='h-[75px]' src="src/assets/cyberpunk.png" alt="" />
+                                <img className='h-[75px]' src="https://ik.imagekit.io/c2zxrxqp6/CyberPunk/GameSection/logoForProduct.png?updatedAt=1746880807133" alt="" />
                             </div>
                             <li className="text-white text-2xl px-8 py-4 font-blender rounded-lg border border-transparent hover:border-[#00f0ff] hover:shadow-[0_0_10px_2px_#00f0ff] hover:bg-[#FFF733]/20 hover:text-[#00f0ff] transition-all duration-300 cursor-pointer">GAMES</li>
                             <li className="text-white text-2xl px-8 py-4 font-blender rounded-lg border border-transparent hover:border-[#00f0ff] hover:shadow-[0_0_10px_2px_#00f0ff] hover:bg-[#FFF733]/20 hover:text-[#00f0ff] transition-all duration-300 cursor-pointer">SHOWS</li>
